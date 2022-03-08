@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/SimpleNaturePack2/Scenes/correctdemo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
